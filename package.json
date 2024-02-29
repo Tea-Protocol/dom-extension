@@ -1,0 +1,24 @@
+{
+  "name": "@shawncvv/dom-extension",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "dom",
+    "extension"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tea-Protocol/dom-extension.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tea-Protocol/dom-extension/issues"
+  },
+  "homepage": "https://github.com/Tea-Protocol/dom-extension#readme",
+  "devDependencies": {}
+}
